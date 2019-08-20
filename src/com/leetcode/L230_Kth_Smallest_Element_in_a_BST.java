@@ -1,4 +1,4 @@
-package com.njust.leetcode;
+package com.leetcode;
 
 
 /**
