@@ -10,7 +10,7 @@ package com.leetcode;
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class L230_Kth_Smallest_Element_in_a_BST {
+public class L230_KthSmallestElementinaBST {
 
     int res = 0;
 
